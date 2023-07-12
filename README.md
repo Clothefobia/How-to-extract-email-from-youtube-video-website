@@ -1,7 +1,7 @@
 # How-to-extract-email-from-youtube-video-website
 How to extract email from youtube video website
 
-Check software on below link
+Check software on below link for more detail about project 
 https://codecanyon.net/item/youtube-email-extractor/27246496
 
  <h4>What is Youtube Email Extractor?</h4>
